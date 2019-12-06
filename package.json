@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroalva/friendfinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Jeronimo Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroalva/friendfinder/issues"
+  },
+  "homepage": "https://github.com/jeroalva/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
